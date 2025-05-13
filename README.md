@@ -58,21 +58,21 @@ python main.py
 Ниже приведены 11 скриншотов, иллюстрирующих работу алгоритма в разных условиях (освещение, фон, расстояние).
 
 <p align="center">
-  <img src="screenshots/Screenshot1.png" width="200" alt="Screenshot 1" />
-  <img src="screenshots/Screenshot2.png" width="200" alt="Screenshot 2" />
-  <img src="screenshots/Screenshot3.png" width="200" alt="Screenshot 3" />
-  <img src="screenshots/Screenshot4.jpg" width="200" alt="Screenshot 4" />
+  <img src="screenshots/Screenshot_1.png" width="200" alt="Screenshot 1" />
+  <img src="screenshots/Screenshot_2.png" width="200" alt="Screenshot 2" />
+  <img src="screenshots/Screenshot_3.png" width="200" alt="Screenshot 3" />
+  <img src="screenshots/Screenshot_4.jpg" width="200" alt="Screenshot 4" />
 </p>
 <p align="center">
-  <img src="screenshots/Screenshot5.jpg" width="200" alt="Screenshot 5" />
-  <img src="screenshots/Screenshot6.jpg" width="200" alt="Screenshot 6" />
-  <img src="screenshots/Screenshot7.jpg" width="200" alt="Screenshot 7" />
-  <img src="screenshots/Screenshot8.png" width="200" alt="Screenshot 8" />
+  <img src="screenshots/Screenshot_5.jpg" width="200" alt="Screenshot 5" />
+  <img src="screenshots/Screenshot_6.jpg" width="200" alt="Screenshot 6" />
+  <img src="screenshots/Screenshot_7.jpg" width="200" alt="Screenshot 7" />
+  <img src="screenshots/Screenshot_8.png" width="200" alt="Screenshot 8" />
 </p>
 <p align="center">
-  <img src="screenshots/Screenshot9.jpg" width="200" alt="Screenshot 9" />
-  <img src="screenshots/Screenshot10.jpg" width="200" alt="Screenshot 10" />
-  <img src="screenshots/Screenshot11.jpg" width="200" alt="Screenshot 11" />
+  <img src="screenshots/Screenshot_9.jpg" width="200" alt="Screenshot 9" />
+  <img src="screenshots/Screenshot_10.jpg" width="200" alt="Screenshot 10" />
+  <img src="screenshots/Screenshot_11.jpg" width="200" alt="Screenshot 11" />
 </p>
 
 ---
