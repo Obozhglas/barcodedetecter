@@ -131,8 +131,8 @@ python main.py
 Ниже скриншоты:
 
 <p align="center">
-  <img src="screenshots/Screenshot_14.png" width="400" alt="0°" />
-  <img src="screenshots/Screenshot_15.png" width="400" alt="37°" />
+  <img src="screenshots/Screenshot_14.jpg" width="400" alt="0°" />
+  <img src="screenshots/Screenshot_15.jpg" width="400" alt="37°" />
 </p>
 
 ## ↕️ Тестирование ориентации предмета без изменения положения штрих-кода
@@ -140,8 +140,8 @@ python main.py
 Лучше всего поддерживает считывание штрихкода при изменении положения предмета из горизонтального в вертикальное без изменения положения самого штрих-кода (остается горизонтальным). Считывает штрих код практически при полном повороте (\~до 80 градусов)
 
 <p align="center">
-  <img src="screenshots/Screenshot_16.png" width="400" alt="Screenshot 16°" />
-  <img src="screenshots/Screenshot_17.png" width="400" alt="Screenshot 17" />
+  <img src="screenshots/Screenshot_16.jpg" width="400" alt="Screenshot 16°" />
+  <img src="screenshots/Screenshot_17.jpg" width="400" alt="Screenshot 17" />
 </p>
 
 ---
