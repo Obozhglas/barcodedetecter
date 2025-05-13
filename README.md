@@ -10,7 +10,7 @@
 ├── main.py            # Основной скрипт для захвата и обработки видео
 ├── requirements.txt   # Зависимости проекта
 ├── settings.py        # Настраивается источник видеопотока
-└── screenshots/       # Папка с примерами работы (11 JPG)
+└── screenshots/       # Папка с примерами работы (11 изображений)
     ├── screenshot1.jpg
     ├── screenshot2.jpg
     ├── screenshot3.jpg
@@ -58,9 +58,9 @@ python main.py
 Ниже приведены 11 скриншотов, иллюстрирующих работу алгоритма в разных условиях (освещение, фон, расстояние).
 
 <p align="center">
-  <img src="screenshots/screenshot1.jpg" width="200" alt="Screenshot 1" />
-  <img src="screenshots/screenshot2.jpg" width="200" alt="Screenshot 2" />
-  <img src="screenshots/screenshot3.jpg" width="200" alt="Screenshot 3" />
+  <img src="screenshots/screenshot1.png" width="200" alt="Screenshot 1" />
+  <img src="screenshots/screenshot2.png" width="200" alt="Screenshot 2" />
+  <img src="screenshots/screenshot3.png" width="200" alt="Screenshot 3" />
   <img src="screenshots/screenshot4.jpg" width="200" alt="Screenshot 4" />
 </p>
 <p align="center">
