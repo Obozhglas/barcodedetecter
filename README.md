@@ -67,7 +67,7 @@ python main.py
   <img src="screenshots/Screenshot_5.jpg" width="200" alt="Screenshot 5" />
   <img src="screenshots/Screenshot_6.jpg" width="200" alt="Screenshot 6" />
   <img src="screenshots/Screenshot_7.jpg" width="200" alt="Screenshot 7" />
-  <img src="screenshots/Screenshot_8.png" width="200" alt="Screenshot 8" />
+  <img src="screenshots/Screenshot_8.jpg" width="200" alt="Screenshot 8" />
 </p>
 <p align="center">
   <img src="screenshots/Screenshot_9.jpg" width="200" alt="Screenshot 9" />
